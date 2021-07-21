@@ -1,0 +1,29 @@
+{
+        "anytime" : [
+                "Te ves genial hoy!",
+                "¡Hoy es un dia increíble!",
+                "Tu marcas la diferencia",
+                "Una bonita sonrisa, para un bonito día",
+                "¿Sigues mirando el espejo?",
+                "El espejo te dice: 'hola'"
+        ],
+        "morning" : [
+                "¡Tu pelo está increíble hoy!",
+                "Empieza el día con una sonrisa",
+                "¡Será un hermoso día!",
+                "¿No es maravilloso el día?",
+                "¡Prepárate para un día increíble!"
+        ],
+        "afternoon" : [
+                "Acabo de terminar tu trabajo ...",
+                "Tarde, ni mañana ni mediodía",
+                "Este día es genial",
+                "¡Casi la hora de comer!"
+        ],
+        "evening" : [
+                "Buen provecho",
+                "Descansa, genial",
+                "Tú marcaste la diferencia",
+                "¿Te gustó tu comida?"
+        ]
+}
